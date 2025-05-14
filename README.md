@@ -27,4 +27,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/manishuser1234/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0800-letter-case-permutation](https://github.com/manishuser1234/Leetcode/tree/master/0800-letter-case-permutation) |
+## Backtracking
+|  |
+| ------- |
+| [0800-letter-case-permutation](https://github.com/manishuser1234/Leetcode/tree/master/0800-letter-case-permutation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0800-letter-case-permutation](https://github.com/manishuser1234/Leetcode/tree/master/0800-letter-case-permutation) |
 <!---LeetCode Topics End-->
