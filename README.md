@@ -24,12 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/manishuser1234/Leetcode/tree/master/0007-reverse-integer) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/manishuser1234/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## String
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/manishuser1234/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0800-letter-case-permutation](https://github.com/manishuser1234/Leetcode/tree/master/0800-letter-case-permutation) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/manishuser1234/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/manishuser1234/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -42,8 +44,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/manishuser1234/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/manishuser1234/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Greedy
 |  |
 | ------- |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/manishuser1234/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+## Hash Table
+|  |
+| ------- |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/manishuser1234/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+## Counting
+|  |
+| ------- |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/manishuser1234/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 <!---LeetCode Topics End-->
