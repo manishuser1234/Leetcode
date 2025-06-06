@@ -52,9 +52,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/manishuser1234/Leetcode/tree/master/0141-linked-list-cycle) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/manishuser1234/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Counting
 |  |
 | ------- |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/manishuser1234/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/manishuser1234/Leetcode/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/manishuser1234/Leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
